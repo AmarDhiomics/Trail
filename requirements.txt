@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # local package install
 -e .
 
@@ -12,3 +13,8 @@ flake8
 flask
 gunicorn
 PyYAML
+=======
+dvc
+dvc[gdrive]
+sklearn
+>>>>>>> 831c59e58ae32dcea4ff4a89bb665c201ef7dbd8
