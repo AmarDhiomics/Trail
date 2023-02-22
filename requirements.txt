@@ -17,4 +17,5 @@ PyYAML
 dvc
 dvc[gdrive]
 sklearn
+importlib-metadata==4.13.0
 #>>>>>>> 831c59e58ae32dcea4ff4a89bb665c201ef7dbd8
